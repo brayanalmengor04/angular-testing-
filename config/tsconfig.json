@@ -1,0 +1,10 @@
+{
+    // Configuracion predilecta de TS
+    "compilerOptions": {
+        // La mas estable
+        "target": "ES2022",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": false,
+        "useDefineForClassFields": true
+    }
+}
